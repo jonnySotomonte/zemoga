@@ -85,7 +85,16 @@ Cuando la ejecución del endpoint falla se obtiene la siguiente respuesta:
 - Codigo de respuesta = 500
 - Cuerpo de la respuesta = <Descripción del error obtenido>
 
+**Tiempo**
 
+El tiempo que tome para realizar este proyecto Backend fue de 4 horas, en estas 4 horas se tiene contemplado
+
+- Tiempo de desarrollo
+- Tiempo de escrituras de pruebas unitarias y de prueba de integración
+- Tiempo de pruebas funcionales
+
+Adicionalmente tambien hubo una hora adicional que fue utilizada para realizar la investigación de cuales librerías existían
+para realizar el consumo de la API de Twitter y como se debía realizar dicha implmentación
 
 
 
